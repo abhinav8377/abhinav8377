@@ -14,24 +14,9 @@ I focus on understanding systems and secure them...
 
 ---
 
-## 👨‍💻 About Me
-
-- 🔐 Cyber Security enthusiast with hands-on interest in **Black-Box Testing**
-- 🌐 Web Developer with a strong focus on **security-aware development**
-- 🕵️ OSINT researcher exploring **digital footprints, recon & information gathering**
-- 📡 Interested in **Network Security, traffic analysis & attack surface mapping**
-- 🧪 I prefer **real systems over theory** — labs, testing environments, and live practice
-- 👯 Open to collaborating on **security research, OSINT tools, or secure web apps**
-
----
-
 ## 🧠 What I Actually Work On
 
-- Web Application Security Testing 
-- Black-Box Vulnerability Testing 
-- OSINT Techniques (Footprinting, Profiling, Data Correlation)  
-- Web Development 
-- Automation & Scripting for Security Tasks  
+- OSINT and Development , Security Testing
 
 _No buzzwords. No fake “expert” claims._
 
