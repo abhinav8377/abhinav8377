@@ -1,7 +1,7 @@
 <h1 align="center">Hey! I'm Abhinav Tiwari 👋</h1>
 
 <p align="center">
-Cyber Security Enthusiast | Web Developer | OSINT & Security Researcher | Always Eager To Learn New Things
+Web/API Security Tester | Web Developer | OSINT & Security Researcher | Always Eager To Learn New Things
 </p>
 
 <p align="center">
