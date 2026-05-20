@@ -1,7 +1,7 @@
 <h1 align="center">Hey! I'm Abhinav Tiwari 👋</h1>
 
 <p align="center">
-Web/API Security Tester | Web Developer | OSINT & Security Researcher | Always Eager To Learn New Things
+Web/API Security Tester | Mern Stack Developer | Always Eager To Learn New Things
 </p>
 
 <p align="center">
@@ -16,7 +16,7 @@ I focus on understanding systems and secure them...
 
 ## 🧠 What I Actually Work On
 
-- OSINT and Development , Security Testing
+- Web Security Researcher
 
 _No buzzwords. No fake “expert” claims._
 
