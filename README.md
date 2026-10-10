@@ -20,8 +20,6 @@
 
 ## 🖥️ `whoami`
 
-<img align="right" width="300" alt="Developer coding animation" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
-
 ```bash
 ┌──[abhinav@kali]─[~]
 └─$ whoami
@@ -140,8 +138,6 @@ Git & CI/CD              ██████
 
 </div>
 
-<br/>
-
 <!-- ================= WRITEUPS ================= -->
 
 ## 📝 `tail -f writeups.log`
@@ -151,8 +147,6 @@ Git & CI/CD              ██████
 - 🧪 CTF walkthroughs and lab solutions — *coming soon*
 
 > Every exploit teaches something. Every writeup shares it.
-
-<br/>
 
 <!-- ================= CONNECT ================= -->
 
@@ -166,8 +160,6 @@ Git & CI/CD              ██████
 
 </div>
 
-<br/>
-
 <!-- ================= SUPPORT ================= -->
 
 ## ☕ `./support.sh`
@@ -177,8 +169,6 @@ Git & CI/CD              ██████
 <a href="https://www.buymeacoffee.com/"><img src="https://img.shields.io/badge/Buy_Me_a_Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black" alt="Buy Me a Coffee"/></a>
 
 </div>
-
-<br/>
 
 <!-- ================= CONTRIBUTION SNAKE ================= -->
 
@@ -193,8 +183,6 @@ Git & CI/CD              ██████
 </picture>
 
 </div>
-
-<br/>
 
 <!-- ================= FOOTER ================= -->
 
