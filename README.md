@@ -87,15 +87,39 @@ Git & CI/CD              ██████
 
 ## 🛠️ `ls /usr/bin/tools`
 
-### 🔴 Web Pentesting / Security Arsenal
+### 🔴 Web Pentesting & Security Arsenal
 
 <p>
-<img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali Linux"/>
-<img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" alt="Burp Suite"/>
-<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark"/>
-<img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white" alt="Metasploit"/>
-<img src="https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logo=nmap&logoColor=00ff9f" alt="Nmap"/>
-<img src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=00ff9f" alt="OWASP"/>
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali Linux"/>
+  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" alt="Burp Suite"/>
+  <img src="https://img.shields.io/badge/OWASP_ZAP-00549E?style=for-the-badge&logo=owasp&logoColor=white" alt="OWASP ZAP"/>
+  <img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white" alt="Metasploit"/>
+  <img src="https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logo=linux&logoColor=white" alt="Nmap"/>
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark"/>
+  <img src="https://img.shields.io/badge/SQLmap-CC0000?style=for-the-badge&logo=databricks&logoColor=white" alt="SQLmap"/>
+  <img src="https://img.shields.io/badge/Nikto-222222?style=for-the-badge&logo=linux&logoColor=white" alt="Nikto"/>
+  <img src="https://img.shields.io/badge/ffuf-333333?style=for-the-badge&logo=gnometerminal&logoColor=white" alt="ffuf"/>
+  <img src="https://img.shields.io/badge/Gobuster-444444?style=for-the-badge&logo=gnometerminal&logoColor=white" alt="Gobuster"/>
+  <img src="https://img.shields.io/badge/Dirsearch-222222?style=for-the-badge&logo=gnometerminal&logoColor=white" alt="Dirsearch"/>
+  <img src="https://img.shields.io/badge/WhatWeb-4B275F?style=for-the-badge&logo=linux&logoColor=white" alt="WhatWeb"/>
+  <img src="https://img.shields.io/badge/httpx-222222?style=for-the-badge&logo=go&logoColor=white" alt="httpx"/>
+  <img src="https://img.shields.io/badge/Nuclei-4B32C3?style=for-the-badge&logo=target&logoColor=white" alt="Nuclei"/>
+  <img src="https://img.shields.io/badge/Amass-2B5797?style=for-the-badge&logo=linux&logoColor=white" alt="OWASP Amass"/>
+  <img src="https://img.shields.io/badge/Subfinder-222222?style=for-the-badge&logo=go&logoColor=white" alt="Subfinder"/>
+  <img src="https://img.shields.io/badge/Assetfinder-333333?style=for-the-badge&logo=linux&logoColor=white" alt="Assetfinder"/>
+  <img src="https://img.shields.io/badge/Naabu-222222?style=for-the-badge&logo=go&logoColor=white" alt="Naabu"/>
+  <img src="https://img.shields.io/badge/Waybackurls-333333?style=for-the-badge&logo=internetarchive&logoColor=white" alt="Waybackurls"/>
+  <img src="https://img.shields.io/badge/Arjun-222222?style=for-the-badge&logo=python&logoColor=white" alt="Arjun"/>
+  <img src="https://img.shields.io/badge/ParamSpider-333333?style=for-the-badge&logo=python&logoColor=white" alt="ParamSpider"/>
+  <img src="https://img.shields.io/badge/Commix-222222?style=for-the-badge&logo=linux&logoColor=white" alt="Commix"/>
+  <img src="https://img.shields.io/badge/John_the_Ripper-333333?style=for-the-badge&logo=linux&logoColor=white" alt="John the Ripper"/>
+  <img src="https://img.shields.io/badge/Hashcat-222222?style=for-the-badge&logo=amd&logoColor=white" alt="Hashcat"/>
+  <img src="https://img.shields.io/badge/Hydra-333333?style=for-the-badge&logo=linux&logoColor=white" alt="THC Hydra"/>
+  <img src="https://img.shields.io/badge/Netcat-222222?style=for-the-badge&logo=gnometerminal&logoColor=white" alt="Netcat"/>
+  <img src="https://img.shields.io/badge/Proxychains-333333?style=for-the-badge&logo=linux&logoColor=white" alt="Proxychains"/>
+  <img src="https://img.shields.io/badge/ExifTool-222222?style=for-the-badge&logo=files&logoColor=white" alt="ExifTool"/>
+  <img src="https://img.shields.io/badge/Trivy-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Trivy"/>
+  <img src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white" alt="OWASP"/>
 </p>
 
 ### 💻 Development Stack
