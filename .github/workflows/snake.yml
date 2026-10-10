@@ -1,35 +1,47 @@
-
-name: Generate Contribution Snake
+```yaml
+name: Update Activity Chart
 
 on:
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "17 */6 * * *"
   workflow_dispatch:
-  push:
-    branches:
-      - main
 
 permissions:
   contents: write
 
 jobs:
-  generate:
+  chart:
     runs-on: ubuntu-latest
-    timeout-minutes: 10
 
     steps:
-      - name: Generate snake SVGs
-        uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: abhinav8377
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+      - name: Checkout repository
+        uses: actions/checkout@v4
 
-      - name: Publish SVGs to output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
+      - name: Generate activity charts
+        uses: dturovskiy/deus-commit-chart@v1
         with:
-          target_branch: output
-          build_dir: dist
+          username: abhinav8377
+          token: ${{ secrets.GITHUB_TOKEN }}
+          default-days: "365"
+          ranges: "30,90,365"
+          layout: spacious
+          output-dir: activity-dist
+
+      - name: Publish charts to activity-assets
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          set -euo pipefail
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          cd activity-dist
+          git init
+          git checkout --orphan activity-assets
+          git add -A
+          git commit -m "Update activity charts"
+          git push --force \
+            "https://x-access-token:${GH_TOKEN}@github.com/${GITHUB_REPOSITORY}.git" \
+            HEAD:activity-assets
+```
