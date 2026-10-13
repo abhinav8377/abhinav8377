@@ -10,7 +10,6 @@
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=abhinav8377&label=PROFILE%20VIEWS&color=00ff9f&style=for-the-badge" alt="Profile views"/>
 <img src="https://img.shields.io/badge/STATUS-LEARNING-00ff9f?style=for-the-badge&logo=statuspage&logoColor=black" alt="Status"/>
 <img src="https://img.shields.io/badge/FOCUS-WEB%20SECURITY-ff003c?style=for-the-badge&logo=hackaday&logoColor=white" alt="Focus"/>
 
